@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://haidermalik.netlify.app](https://haidermalik.netlify.app)
 
-- 💬 Ask me about **ReactJS, NextJs, NodeJs, ExpressJs, MongoDB and Data Structures and Algorithms**
+- 💬 Ask me about **ReactJS, NextJs, NodeJs, ExpressJs, MongoDB and Data Structures and Algorithms, Machine Learning, Neural Networks, Decision Trees**
 
 - 📫 How to reach me **malikhaider0567@gmail.com**
 
